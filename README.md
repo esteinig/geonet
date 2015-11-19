@@ -1,2 +1,3 @@
-# skynet
-Netowrk Map Projections for R
+#Package *skynet* for R
+
+Map projections for undirected graphs (iGraph).
