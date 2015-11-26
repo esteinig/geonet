@@ -1,3 +1,3 @@
-#Package *skynet* for R
+#Package *geonet* for R
 
-Map projections for undirected graphs (iGraph).
+Map projections of undirected graphs using [Leaflet](http://leafletjs.com/) and [globeJS](https://github.com/bwlewis/rthreejs).
