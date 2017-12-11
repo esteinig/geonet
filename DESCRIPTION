@@ -1,0 +1,13 @@
+Package: geonet
+Title: Network Map Projections
+Version: 0.1
+Authors@R: person("Eike J.", "Steinig", role = c("aut", "cre"),
+                     email = "eikejoachim.steinig@my.jcu.edu.au")
+Description: Package for mapping undirected networks and associated
+    meta data onto interactive maps with Leaflet and globeJS.
+Depends:
+    R (>= 3.2.2)
+License: GNU General Public v.3.0
+LazyData: true
+RoxygenNote: 5.0.1
+
